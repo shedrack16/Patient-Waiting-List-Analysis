@@ -16,7 +16,6 @@ The project analyzes Ireland's national patient waiting lists from 2018 to 2021,
 - How does wait list volume vary by age profile (0-15, 16-64, 65+)?
 - How has the wait list trended month-on-month from 2018 to 2021?
 - What proportion of patients fall into each wait-time band (0-3 months through 18+ months)?
-- Dashboard Interaction [View Dashboard](https://github.com/shedrack16/Patient-Waiting-List-Analysis)
 
 ## Process
 - Verified data for any missing values and anomalies across the yearly Inpatient/Day Case and Outpatient files, and sorted out the same.
