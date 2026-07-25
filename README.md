@@ -4,9 +4,7 @@
 The project analyzes Ireland's national patient waiting lists from 2018 to 2021, covering Inpatient/Day Case and Outpatient services. The goal is to help healthcare planners understand how waiting list volumes are trending, which specialties carry the heaviest burden, and how wait times vary across age groups, so that resources can be targeted more effectively.
 
 ## Dataset used
-- [Mapping_Specialty.csv]() 
-- [Inpatient/Day Case Waiting List (IN_WL) 2018-2021](https://github.com/shedrack16/Patient-Waiting-List-Analysis)
-- [Outpatient Waiting List (Op_WL) 2018-2021](https://github.com/shedrack16/Patient-Waiting-List-Analysis)
+- [hospital data](https://drive.google.com/drive/folders/1nQuWSRWtci65AHncSKDNYJdPV5A5MwGQ) 
 
 ## Questions (KPIs)
 - What is the total wait list size, and how does it compare to the same period last year?
