@@ -4,7 +4,7 @@
 The project analyzes Ireland's national patient waiting lists from 2018 to 2021, covering Inpatient/Day Case and Outpatient services. The goal is to help healthcare planners understand how waiting list volumes are trending, which specialties carry the heaviest burden, and how wait times vary across age groups, so that resources can be targeted more effectively.
 
 ## Dataset used
-- [Mapping_Specialty.csv](https://github.com/shedrack16/Patient-Waiting-List-Analysis) - maps individual specialties to broader specialty groups
+- [Mapping_Specialty.csv]() 
 - [Inpatient/Day Case Waiting List (IN_WL) 2018-2021](https://github.com/shedrack16/Patient-Waiting-List-Analysis)
 - [Outpatient Waiting List (Op_WL) 2018-2021](https://github.com/shedrack16/Patient-Waiting-List-Analysis)
 
@@ -26,11 +26,6 @@ The project analyzes Ireland's national patient waiting lists from 2018 to 2021,
 - Built average and median wait-time measures by specialty, case type, and age profile.
 - Designed a Summary page, a Detail view page, and a Drill-down page, linked with slicers for Archive Date, Case Type, Specialty, Age Profile, and Time Bands to make the report dynamic.
 
-## Dashboard
-![Patient Waiting List Summary](https://github.com/shedrack16/Patient-Waiting-List-Analysis)
-![Patient Waiting List Detail View](https://github.com/shedrack16/Patient-Waiting-List-Analysis)
-![Patient Waiting List Drill Down](https://github.com/shedrack16/Patient-Waiting-List-Analysis)
-
 ## Project Insight
 - The overall wait list reached 709K in the latest month, up from 640K in the same month the previous year, an increase of roughly 11%.
 - Outpatient cases make up the large majority of the wait list (around 74%), with Inpatient and Day Case cases making up the remainder.
@@ -41,3 +36,11 @@ The project analyzes Ireland's national patient waiting lists from 2018 to 2021,
 
 ## Final Conclusion:
 To reduce the strain on the health system, capacity should be prioritized in the specialty groups carrying the largest wait list volumes, such as General, Orthopaedics, and Urology. Given the steady month-on-month growth in Outpatient waiting lists specifically, targeted investment in Outpatient clinic capacity is likely to have the greatest impact on bringing overall wait times down, particularly for paediatric specialties where median wait times are highest.
+
+## Dashboard
+<img width="613" height="371" alt="Screenshot 2026-07-25 200401" src="https://github.com/user-attachments/assets/f217c9ff-2ae5-4089-a6a5-c86abf2f0c11" />
+
+<img width="611" height="374" alt="Screenshot 2026-07-25 200425" src="https://github.com/user-attachments/assets/7c310daa-80ab-4f59-9df4-b035a7795be9" />
+
+<img width="356" height="378" alt="Screenshot 2026-07-25 200629" src="https://github.com/user-attachments/assets/082df5fd-9613-4414-87a0-fcfce4518681" />
+
